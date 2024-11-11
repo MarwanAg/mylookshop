@@ -1,0 +1,7 @@
+.products-container .cards{
+	border:1px solid #000;
+}
+.products-container .cards .background-container img{
+	width:100%;
+	height:300px;
+}

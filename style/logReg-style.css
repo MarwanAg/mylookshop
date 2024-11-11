@@ -1,0 +1,34 @@
+.form-box{
+	width:100%;
+	padding:20px;
+}
+.form-box form{
+	background:#5F9EA0;
+	width:100%;
+	height:410px;
+	padding:15px;
+	box-shadow: -10px 15px 32px -1px rgba(0,0,0,0.68);
+    -webkit-box-shadow: -10px 15px 32px -1px rgba(0,0,0,0.68);
+    -moz-box-shadow: -10px 15px 32px -1px rgba(0,0,0,0.68);
+	border-radius:5px;
+}
+.input-field{
+	display:block;
+	width:100%;
+	padding:10px;
+}
+.input-field button{
+	background:#fff;
+	padding:10px;
+	border-radius:22px;
+	box-shadow: -5px 10px 27px rgba(0,0,0,0.68);
+    -webkit-box-shadow: -5px 10px 27px rgba(0,0,0,0.68);
+    -moz-box-shadow: -5px 10px 27px rgba(0,0,0,0.68);
+}
+.form-box form .input-style{
+	padding:8px;
+	width:80%;
+}
+.container-forms{
+	display:flex;
+}
